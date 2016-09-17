@@ -1,0 +1,9 @@
+name: Squeerelay
+version: 1.0
+author: Evert
+main: ee.lunasqu.squeerelay.Main
+commands:
+  relay:
+    description: Relay Manager
+    usage: "Usage: /relay <start|stop|broadcast|mute|status> [<args>]"
+    permission: squeerelay.manage
